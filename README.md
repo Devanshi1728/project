@@ -1,3 +1,5 @@
+ Start apache n mysql services from XAMPP
+ 
  pip install djangorestframework
  pip install django-rest-auth
  pip install django-rest-registration
